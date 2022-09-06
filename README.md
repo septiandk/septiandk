@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @septiandk
-- 👀 I’m interested in Cloud, Network Security & Android Development
-- 🌱 I’m currently learning React Native & Cisco Cyberops
-- 💞️ I’m looking to collaborate on Android development with React Native framework or Flutter
+- 👀 I’m interested in Cloud, Network Security & Website Development
+- 🌱 I’m currently learning ReactJs and NodeJs
+- 💞️ I’m looking to collaborate on Website development with React framework
 - 📫 How to reach me, septiandk15@gmail.com
 
 <!---
