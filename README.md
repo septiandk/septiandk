@@ -1,17 +1,21 @@
-👋 Hi, I’m @septiandk
+Hi, I’m @septiandk
 
-💻 I’m a DevOps Engineer with a strong interest in Software Engineering and Architecture
+I’m a DevOps Engineer with a proven track record in building and maintaining scalable, reliable infrastructure.  
+I focus on automating workflows, improving CI/CD pipelines, and optimizing system performance.
 
-🛠️ Experienced in building scalable, reliable infrastructure and automating development workflows
+I enjoy working closely with development teams to make development and operations smoother, more efficient, and more reliable.
 
-🚀 Currently learning Go and diving deeper into system design & backend development
+I also have hands-on programming experience:
+- Backend: Go (GoFiber), Python  
+- Frontend: HTML (basic), previously worked with React (now more backend-focused)
 
-🌐 Passionate about creating clean, efficient, and maintainable systems
+Strong interest in:
+- Backend Development  
+- System Design & Architecture  
+- Scalable and maintainable systems
 
-🤝 Open to collaborate on Software Engineering, DevOps, or Architecture-focused projects
+Always curious and continuously learning new technologies to keep systems moving forward.
 
-📫 Reach me at: septiandk15@gmail.com
-<!---
-septiandk/septiandk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Open to collaborate on Software Engineering, DevOps, and Architecture-focused projects.
+
+Reach me at: septiandk15@gmail.com
